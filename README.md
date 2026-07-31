@@ -168,46 +168,6 @@ python main.py
 
 ---
 
-# 📸 Screenshots
-
-> *(Upload screenshots inside the **assets** folder and replace the filenames below.)*
-
-### Home Screen
-
-![](assets/home-screen.png)
-
----
-
-### Voice Recognition
-
-![](assets/voice-command.png)
-
----
-
-### AI Conversation
-
-![](assets/ai-chat.png)
-
----
-
-### Weather Information
-
-![](assets/weather.png)
-
----
-
-### Translation
-
-![](assets/translation.png)
-
----
-
-### WhatsApp Automation
-
-![](assets/whatsapp.png)
-
----
-
 # 🚀 Future Improvements
 
 - Local Large Language Model (LLM) Support
